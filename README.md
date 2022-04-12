@@ -18,7 +18,7 @@ ___
 
 **npm run dev**
 
-
+![promo](public/game-covers/screen2.jpg)
 
 ___
 
@@ -28,6 +28,8 @@ ___
 #### React-Router 
 #### React-Slick
 #### Json-Server
+
+![promo](public/game-covers/screen3.jpg)
 
 ___
 
@@ -45,7 +47,7 @@ ___
 
 
 
-  
+![promo](public/game-covers/screen4.jpg)
 ___
 ### Для выполнения поставленных задач я использовал следующие библиотеки:
 * redux, redux-toolkit - чтобы создавать асинхронные экшены
