@@ -1,0 +1,38 @@
+.info {
+    display: block;
+    position: absolute;
+    top: 120px;
+    left: 150px;
+    z-index: 1;
+}
+.info-title {
+    font-size: 50px;
+    max-width: 600px;
+}
+.info-block {
+    font-size: 24px;
+    margin-top: 20px;
+}
+@media(max-width: 1000px) {
+    .info {
+        top: 80px; 
+    }
+    .info-title {
+        font-size: 34px;
+    }
+}
+
+@media(max-width: 787px) {
+    .info {
+        left: 80px;
+        top: 40px;
+    }
+    .info-title {
+        font-size: 28px;
+    }
+}
+@media(max-width: 565px) {
+    .info {
+        display: none;
+    }
+}

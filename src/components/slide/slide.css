@@ -1,0 +1,9 @@
+.slide {
+    display: block;
+    position: relative;
+}
+.slide-img {
+    width: 100%;
+    display: block;
+    position: relative;
+}

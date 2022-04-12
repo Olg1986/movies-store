@@ -1,0 +1,58 @@
+.menu {
+    display: flex;
+    position: absolute;
+    left: 45%;
+    top: 12px;
+    z-index: 100;
+}
+.menu-btn {
+    margin-top: 20px;
+    background-color: inherit;
+    border: none;
+    
+}
+.menu-btn button {
+    z-index: 100;
+    color: white;
+    
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: none;
+    animation: opacity .4s;
+    color: white;
+}
+.menu-btn {
+    display: block;
+    position: relative;
+}
+.menu-btn i {
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 0;
+}
+.show {
+    display: flex;
+    background-color: rgb(25, 26, 28);
+    width: 300px;
+    height: 100px;
+    padding: 40px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    color: white;
+    left: 0;
+}
+
+
+@keyframes opacity {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

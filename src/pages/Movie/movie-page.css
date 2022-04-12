@@ -1,0 +1,17 @@
+.movie-page__content {
+    display: flex;
+}
+
+.movie-page__left {
+    width: 70%;
+}
+
+.movie-page__right {
+    width: 30%;
+}
+
+.movie-page__buy-muvie {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
