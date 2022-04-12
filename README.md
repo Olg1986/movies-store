@@ -1,10 +1,12 @@
-# Тестовый проект: магазин игр
+# Тестовый проект: магазин фильмов
 #### Этот проект, сделан Омельченко Ольгой
 
 
 ## Функционал
 * Добавление и удаление товаров из корзины
 * Роитинг страниц
+* Поиск товара
+* Слайдер
 
 ![promo](public/game-covers/screen.jpg)
 ___
@@ -14,7 +16,7 @@ ___
 
 #### После набрать команду:
 
-**npm start**
+**npm run dev**
 
 
 
@@ -24,6 +26,8 @@ ___
 #### React 
 #### React-Redux
 #### React-Router 
+#### React-Slick
+#### Json-Server
 
 ___
 
@@ -32,6 +36,12 @@ ___
 * react-redux
 * react-router-dom
 * redux-toolkit
+* json-server
+* react-slick
+* react-carousel
+* json-server
+* react-icons
+* classnames
 
 
 
@@ -41,3 +51,5 @@ ___
 * redux, redux-toolkit - чтобы создавать асинхронные экшены
 * react-router-dom - для роутинга
 * classnames - для стилизации
+* json-server - создание фейкового REST API
+* react-slick - слайдер
