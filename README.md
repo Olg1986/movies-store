@@ -8,7 +8,7 @@
 * Поиск товара
 * Слайдер
 
-![promo](public/game-covers/screen.jpg)
+![promo](public/game-covers/screen_1.jpg)
 ___
 ## Для запуска проекта вам необходимо набрать команду в терминале:
 
@@ -18,7 +18,7 @@ ___
 
 **npm run dev**
 
-![promo](public/game-covers/screen2.jpg)
+![promo](public/game-covers/screen_2.jpg)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 #### React-Slick
 #### Json-Server
 
-![promo](public/game-covers/screen3.jpg)
+![promo](public/game-covers/screen_3.jpg)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 
 
-![promo](public/game-covers/screen4.jpg)
+![promo](public/game-covers/screen_4.jpg)
 ___
 ### Для выполнения поставленных задач я использовал следующие библиотеки:
 * redux, redux-toolkit - чтобы создавать асинхронные экшены
